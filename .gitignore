@@ -1,3 +1,6 @@
 venv
 main.py
 .idea
+dist
+arkm_client.egg-info
+.pypirc
